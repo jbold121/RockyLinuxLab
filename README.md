@@ -22,7 +22,7 @@ This project simulates enterprise Linux server hardening and security engineerin
 
 <h2>Program walk-through:</h2>
 
-System Update <br/>
+<p align ="center"> OpenSCAP and SSH </p> <br/>
 <p align="center"> Update the system to ensure all packages are current before performing compliance scanning. <br/> <img src="images/update (1).png" height="40%" width="40%" alt="System Update" /> <br /><br /> </p>
 <p align="center"> Install OpenSCAP scanner and SCAP Security Guide content required for CIS evaluation. <br/> <img src="images/scap install (2).png" height="70%" width="70%" alt="OpenSCAP Installation" /> <br /> <img src="images/scap install 2 (3).png" height="80%" width="80%" alt="OpenSCAP Installation Complete" /> <br /><br /> </p>
 <p align="center"> Inspect available compliance profiles within the SCAP datastream. <br/> <img src="images/search profiles (4).png" height="80%" width="80%" alt="Search CIS Profiles" /> <br /><br /> </p>
