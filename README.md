@@ -63,8 +63,14 @@ This project simulates enterprise Linux server hardening and security engineerin
 <p align="center"> Testing the evaluation of AIDE rules show two were remediated, while verifying audit tools and crontab failed <br/> <img src="images/aide eval 1.png" height="80%" width="80%" /> <br /> </p>
 <p align="center"> Rsyslogd rule was missing, so I added an rsyslogd rule to aide.conf <br/> <img src="images/verify audit tools 2.png" height="50%" width="50%" /> <br /> </p>
 <p align="center"> Although I created a timer using systemd, the OSCAP rule is looking for a root crontab entry <br/> <img src="images/chrontab.png" height="80%" width="80%" /> <br /> </p>
-<p align="center"> Evaluated the AIDE rules again, this time with a pass <br/> <img src="images/aide eval 2.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> Evaluated the AIDE rules again, this time with a pass <br/> <img src="images/aide eval 2.png" height="80%" width="80%" /> <br /> <br /> </p>
 
+<p align ="center"> 4. Firewalld </p> <br/>
+
+<p align="center"> Check firewalld status <br/> <img src="images/firewalld status.png" height="80%" width="80%"/> <br /> </p>
+<p align="center"> Remove unnecessary services (cockpit and dhcpv6) <br/> <img src="images/remove service.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> Configure the lo interface to be in the trusted zone, and deny loopback address traffic from any other interface <br/> <img src="images/firewalld rules.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> Evaluate firewalld results <br/> <img src="images/firewalld eval.png" height="80%" width="80%" /> <br /> </p>
 
 
 
