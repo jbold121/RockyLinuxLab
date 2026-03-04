@@ -46,3 +46,19 @@ This project simulates enterprise Linux server hardening and security engineerin
 <p align="center"> Test rules by creating events <br/> <img src="images/test rules 1.png" height="60%" width="60%" /> <br /><br /> </p>
 <p align="center"> Search events <br/> <img src="images/test rules 2.png" height="60%" width="60%" /> <br /> </p>
 <p align="center"> <img src="images/test rules 3.png" height="80%" width="80%" /> <br /><br /> </p>
+
+<p align ="center"> 3. AIDE </p> <br/>
+
+<p align="center"> Install AIDE <br/> <img src="images/install.png" height="80%" width="80%"/> <br /> </p>
+<p align="center"> Create systemd service and timer file for scheduled checks <br/> <img src="images/create service file.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> <img src="images/service file.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> <img src="images/create timer file.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> <img src="images/timer file.png" height="80%" width="80%" /> <br /> <br /> </p>
+<p align="center"> Configure AIDE to verify audit tools <br/> <img src="images/aide conf.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> <img src="images/verify audit tools.png" height="80%" width="80%" /> <br /> <br /> </p>
+<p align="center"> Enable and start service <br/> <img src="images/timer and service verification.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> Initialize AIDE scan and promote the new database <br/> <img src="images/initialize.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> Test a check against the new database <br/> <img src="images/check.png" height="80%" width="80%" /> <br /> </p>
+
+
+
