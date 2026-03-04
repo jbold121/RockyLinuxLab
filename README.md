@@ -54,10 +54,11 @@ This project simulates enterprise Linux server hardening and security engineerin
 <p align="center"> <img src="images/service file.png" height="80%" width="80%" /> <br /> </p>
 <p align="center"> <img src="images/create timer file.png" height="80%" width="80%" /> <br /> </p>
 <p align="center"> <img src="images/timer file.png" height="80%" width="80%" /> <br /> <br /> </p>
-<p align="center"> Configure AIDE to verify audit tools <br/> <img src="images/aide conf.png" height="80%" width="80%" /> <br /> </p>
-<p align="center"> <img src="images/verify audit tools.png" height="80%" width="80%" /> <br /> <br /> </p>
+<p align="center"> Configure AIDE to verify audit tools <br/> <img src="images/aide conf.png" height="60%" width="60%" /> <br /> </p>
+<p align="center"> <img src="images/verify audit tools.png" height="60%" width="60%" /> <br /> <br /> </p>
 <p align="center"> Enable and start service <br/> <img src="images/timer and service verification.png" height="80%" width="80%" /> <br /> </p>
 <p align="center"> Initialize AIDE scan and promote the new database <br/> <img src="images/initialize.png" height="80%" width="80%" /> <br /> </p>
+<p align="center"> <img src="images/promote.png" height="80%" width="80%" /> <br /> </p>
 <p align="center"> Test a check against the new database <br/> <img src="images/check.png" height="80%" width="80%" /> <br /> </p>
 
 
