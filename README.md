@@ -42,7 +42,7 @@ This project simulates enterprise Linux server hardening and security engineerin
 <p align="center"> Create dedicated file with rules <br/> <img src="images/cis rules.png" height="60%" width="60%" /> <br /><br /> </p>
 <p align="center"> Create rule set <br/> <img src="images/auditd rules.png" height="80%" width="80%" /> <br /><br /> </p>
 <p align="center"> Load rule set <br/> <img src="images/augenrules load.png" height="50%" width="50%" /> <br /><br /> </p>
-<p align="center"> Verify rules are laoded <br/> <img src="images/verify audit rules.png" height="80%" width="80%" /> <br /><br /> </p>
+<p align="center"> Verify rules are loaded <br/> <img src="images/verify audit rules.png" height="80%" width="80%" /> <br /><br /> </p>
 <p align="center"> Test rules by creating events <br/> <img src="images/test rules 1.png" height="60%" width="60%" /> <br /><br /> </p>
 <p align="center"> Search events <br/> <img src="images/test rules 2.png" height="60%" width="60%" /> <br /> </p>
 <p align="center"> <img src="images/test rules 3.png" height="80%" width="80%" /> <br /><br /> </p>
